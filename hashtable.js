@@ -1,3 +1,5 @@
+//Basic implementation of a hashtable in javascript
+
 class HashTable {
   constructor() {
     this.values = {};
