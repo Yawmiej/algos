@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\algos\WordPlay\bin\Debug\net6.0\WordPlay.exe
+C:\Users\USER\Desktop\algos\WordPlay\bin\Debug\net6.0\WordPlay.deps.json
+C:\Users\USER\Desktop\algos\WordPlay\bin\Debug\net6.0\WordPlay.runtimeconfig.json
+C:\Users\USER\Desktop\algos\WordPlay\bin\Debug\net6.0\WordPlay.dll
+C:\Users\USER\Desktop\algos\WordPlay\bin\Debug\net6.0\WordPlay.pdb
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.AssemblyInfo.cs
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.dll
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\refint\WordPlay.dll
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.pdb
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\WordPlay.genruntimeconfig.cache
+C:\Users\USER\Desktop\algos\WordPlay\obj\Debug\net6.0\ref\WordPlay.dll
